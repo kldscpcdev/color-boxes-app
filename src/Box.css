@@ -3,6 +3,14 @@
     height: 10vw;
 }
 
+.Box-container {
+    display: flex;
+}
+
+.Box-div {
+    display: inline;
+}
+
 .Box-box-mischka {
     background-color: #dcdae4;
 }
