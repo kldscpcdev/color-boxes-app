@@ -1,10 +1,10 @@
 import './App.css';
-import Picker from "./Picker";
+import BoxContainer from "./BoxContainer";
 
 function App() {
   return (
     <div className="App">
-  <Picker />
+  <BoxContainer />
     </div>
   );
 }
